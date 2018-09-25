@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "385659941532",
+    "firebase_url": "https://transport-tracker-51e63.firebaseio.com",
+    "project_id": "transport-tracker-51e63",
+    "storage_bucket": "transport-tracker-51e63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385659941532:android:633c1d52ec724e9c",
+        "android_client_info": {
+          "package_name": "com.example.transporttracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385659941532-e0hi8o4kthe6h8c8ni9vmh8odbtppfpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc3lS8HGcT-MU-vf52RiM48yQFgUFq1bQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
